@@ -18,6 +18,9 @@
       "jakeasmith/http_build_url"         : "dev-master",
       "planetteamspeak/ts3-php-framework" : "^1.1"
    },
+   "suggest"           : {
+      "ext-ssh2" : "Need server ssh connect."
+   },
    "autoload"          : {
       "psr-4" : {
          "Tivet\\Query\\" : ""
